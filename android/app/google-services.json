@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97521187444",
+    "project_id": "guidy-adb16",
+    "storage_bucket": "guidy-adb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97521187444:android:5c988f2470cd6d70482f21",
+        "android_client_info": {
+          "package_name": "com.ghinaMayyada.guidy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0MkzPCC-Tcw12bHAJvrgXxlRxIDPCb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
